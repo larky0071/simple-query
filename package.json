@@ -1,0 +1,27 @@
+{
+  "name": "simple-db-manage",
+  "version": "0.1.0",
+  "description": "What about simplifying MySQL queries?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larky0071/simple-db-manage.git"
+  },
+  "keywords": [
+    "db",
+    "mysql"
+  ],
+  "author": "Larky0071",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larky0071/simple-db-manage/issues"
+  },
+  "homepage": "https://github.com/larky0071/simple-db-manage#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mysql2": "^2.3.3"
+  }
+}
